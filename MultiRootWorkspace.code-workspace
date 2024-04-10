@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "./Azure"
+		},
+		{
+			"path": "./Components"
+		},
+		{
+			"path": "./Plugins"
+		},
+		{
+			"path": "./Scripts"
+		}
+	],
+	"settings": {
+		"dotnet.preferCSharpExtension": true
+	}
+}
